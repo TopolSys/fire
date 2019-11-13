@@ -1,0 +1,4 @@
+To compile:
+make lef
+make def
+make
