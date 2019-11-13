@@ -1,5 +1,5 @@
 # FIRE
-Fire (Format Independent Routing Environment) is a router that designed in a way towards eliminating dependency of input format. Highlights of Fire:
+Fire (Format Independent Routing Environment) is a global router that designed in a way towards eliminating dependency of input format. Highlights of Fire:
 
 + deterministic parallelization
 + depends only on stable C++ version
