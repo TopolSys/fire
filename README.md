@@ -8,8 +8,13 @@ Fire (Format Independent Routing Environment) is a global router that designed i
 Currently it supports Cadence LEF/DEF format.
 
 # Compile
-The developement of this project minimizes the dependency on third-party tools. The only known requirement is C++ version: 
-+ g++ (GCC) 5.5.0 C++11
+The developement of this project minimizes the dependency on third-party tools. Standard version of unix/linux-like system with following feature should be sufficient to Fire: 
+
++ g++ (GCC) 5.5.0 C++11 (2015)
++ GNU Make 3.81 (2006)
++ bison (GNU Bison) 2.4.1 (2008)
+
+Author developed Fire in CentOS 6.4 with compiler updated to g++ 5.5.0
 
 Compile the project with:
 ```bash
