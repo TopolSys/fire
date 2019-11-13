@@ -35,7 +35,7 @@ For example:
 # Code Invocation
 + [FLUTE](http://home.eng.iastate.edu/~cnchu/flute.html)
   + a modified version of FLUTE package supports the steiner tree consturction of this project. 
-+ [ISPD 2019 Parser](http://www.ispd.cc/contests/19/tutorial.htm)
-  + a modified version of LEF/DEF parser found on ISPD 2019 webpage enables the support for Cadence LEF/DEF format. 
++ [ISPD 2019: Organizer's Parser](http://www.ispd.cc/contests/19/tutorial.htm)
+  + a modified parser based on ISPD 2019's opensource enables our support for Cadence LEF/DEF format. 
 + [ABC](https://people.eecs.berkeley.edu/~alanmi/abc/)
   + the makefile and file dependency analyzer are from ABC system. 
