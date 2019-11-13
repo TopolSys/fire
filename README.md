@@ -16,7 +16,7 @@ This project minimizes the dependency on third-party tools. Standard installatio
 
 Author developed Fire in CentOS 6.4 with compiler updated to g++ 5.5.0
 
-Compile the project with:
+Compile Fire with:
 ```bash
 $ git clone https://github.com/TopolSys/fire.git 
 $ cd fire
