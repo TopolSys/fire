@@ -1,6 +1,11 @@
 # FIRE
-Format Independent Routing Environment
+Fire (Format Independent Routing Environment) is a router that designed in a way towards eliminating dependency of input format. Highlights of Fire:
 
++ deterministic parallelization
++ depends only on stable C++ version
++ easy to support any input format by filling out the database with customized interpreter. 
+
+Currently it supports Cadence LEF/DEF format.
 
 # Compile
 The developement of this project minimizes the dependency on third-party tools. The only known requirement is C++ version: 
