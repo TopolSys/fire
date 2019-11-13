@@ -3,7 +3,6 @@ Format Independent Routing Environment
 
 
 # Compile
-## Recommendation Setup
 The developement of this project minimizes the dependency on third-party tools. The only known requirement is C++ version: 
 + g++ (GCC) 5.5.0 C++11
 
