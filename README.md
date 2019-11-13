@@ -9,7 +9,9 @@ The developement of this project minimizes the dependency on third-party tools. 
 
 Compile the project with:
 ```bash
-make -f main.mk
+$ git clone https://github.com/TopolSys/fire.git 
+$ cd fire
+$ make -f main.mk
 ```
 If success, the executable is called "lem" under the top level folder.
 
